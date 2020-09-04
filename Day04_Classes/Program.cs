@@ -7,7 +7,7 @@ namespace Day04_Classes
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-			//
+            Class1.TestPrint();
         }
     }
 }
